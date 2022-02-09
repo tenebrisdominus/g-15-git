@@ -1,0 +1,29 @@
+h1{
+    color: crimson;
+    background-color: darkcyan;
+}
+p{
+    size: 20px;
+    background-color: hotpink;
+}
+#primero_h2{
+    color: forestgreen;
+}
+#segundo_h2{
+   background-color: greenyellow;
+}
+
+
+.tipo{
+    font-size: 30px;
+}
+
+#etiqueta{
+    padding: 10px;
+    border: darkturquoise;
+    margin: 15px;
+}
+#etiqueta 2{
+    padding: 3px;
+
+}
